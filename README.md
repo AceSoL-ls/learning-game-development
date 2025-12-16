@@ -1,6 +1,3 @@
-# learning-game-development
-“A collection of simple games built while learning programming and game development.”
-
 # Learning Game Development
 
 This repository contains small game projects and experiments created while I learn game development and programming.
