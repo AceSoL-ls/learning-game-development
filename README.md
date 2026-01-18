@@ -29,4 +29,4 @@ This repository is a **learning project**.
 Code quality and structure improve over time as my skills grow.
 
 ## Author
-Junior developer learning game development and software engineering.
+Euripides Laliotis (AceSoL).
