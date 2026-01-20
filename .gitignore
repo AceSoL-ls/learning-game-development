@@ -1,0 +1,59 @@
+
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+.env
+.venv/
+venv/
+ENV/
+
+# =========================
+# Build / Distribution
+# =========================
+build/
+dist/
+*.spec
+
+# =========================
+# IDE / Editors
+# =========================
+.vscode/
+../.idea/
+*.iml
+*.swp
+*.swo
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Game Dev specific
+# =========================
+# Logs
+*.log
+
+# Save files / runtime data
+saves/
+savegames/
+*.sav
+
+# Temporary assets / cache
+cache/
+temp/
+tmp/
+
+# Exported builds
+exports/
+release/
+
+# ===
